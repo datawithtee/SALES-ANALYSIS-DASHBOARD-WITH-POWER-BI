@@ -22,6 +22,7 @@ DAX (Data Analysis Expressions) – Calculated measures,Calculated columns, and 
 Excel / CSV Dataset – Source data for analysis
 Data Cleaning & Transformation
 
+## Transformation 
 The raw sales dataset was cleaned and prepared using Power Query by:
 
 Removing duplicates and unnecessary columns
@@ -30,6 +31,7 @@ Standardizing data structure and formatting
 Preparing the dataset for analysis and reporting
 Key Metrics (KPIs)
 
+## KPIs and Metrics
 The dashboard tracks important business metrics including:
 
 Total Revenue
@@ -41,6 +43,7 @@ Product Category Performance
 Top Selling City
 Dashboard Features
 
+## Visualization
 The dashboard provides interactive visual insights through:
 
 Revenue trend analysis
@@ -60,11 +63,11 @@ Project Outcome
 
 This project demonstrates how sales data can be transformed into actionable insights using Power BI, enabling businesses to make better strategic and operational decisions.
 
-Project Preview
+## Project Preview
 
-(Add dashboard screenshot here)
+- <a href="https://github.com/datawithtee/SALES-ANALYSIS-DASHBOARD-WITH-POWER-BI/blob/main/Sales%20dashboard%20project.jpg"> DASHBORD</a>
 
-Author
+## Author
 
 Aishat Bankole
 Data Analyst | Operations Manager 
