@@ -65,7 +65,7 @@ This project demonstrates how sales data can be transformed into actionable insi
 
 ## Project Preview
 
-- <a href="https://github.com/datawithtee/SALES-ANALYSIS-DASHBOARD-WITH-POWER-BI/blob/main/Sales%20dashboard%20project.jpg"> DASHBORD</a>
+- <a href="https://github.com/datawithtee/SALES-ANALYSIS-DASHBOARD-WITH-POWER-BI/blob/main/Sales%20dashboard%20project.jpg"> DASHBOARD</a>
 
 ## Author
 
